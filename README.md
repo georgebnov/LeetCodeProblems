@@ -12,6 +12,18 @@ Each file corresponds to a specific problem and is named in a way that matches t
 - Build a strong foundation for coding interviews and real-world problem solving  
 
 ## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/LeetCodeProblems.git
+```bash```
+# Clone the repository
+git clone https://github.com/<your-username>/LeetCodeProblems.git
+
+# Navigate into the folder
+cd LeetCodeProblems
+
+# Run any solution file
+python filename.py
+
+## 📝 Notes
+- These are my own solutions, written in Python.  
+- Currently, I’m only practicing in Python, but in the near future I plan to follow the same path with C languages (C, C++, etc.).  
+- I try to keep the code simple and well-commented.  
+- Some problems may have multiple approaches (brute force, optimized).  
