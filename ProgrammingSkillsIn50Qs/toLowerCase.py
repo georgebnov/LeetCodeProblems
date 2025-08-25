@@ -14,5 +14,5 @@ print(toLowerCase2(s))
 
 '''
 What did I learn:
-1) Using pre-built functions are more momory used then when doing making it on our own.
+1) Using pre-built functions are more momory used then when doing making it on our own. (Intersting - Woudl be cool to find out whats the reason)
 '''
