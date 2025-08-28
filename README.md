@@ -27,3 +27,6 @@ python filename.py
 - Currently, I’m only practicing in Python, but in the near future I plan to follow the same path with C languages (C, C++, etc.).  
 - I try to keep the code simple and well-commented.  
 - Some problems may have multiple approaches (brute force, optimized).  
+
+## My LeetCode Profile
+https://leetcode.com/u/Ocntt1io6H/
