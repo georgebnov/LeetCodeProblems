@@ -8,7 +8,7 @@ def setZeroes(matrix):
     cols = len(matrix[0])
     locationZeros = []
 
-    for p in range(rows):
+    for p in range(rows): #My Solution (1ms | Beats = 86.17%, 13.28MB | Beats 13.23%)
         for o in range(cols):
             if matrix[p][o] == 0:
                 locationZeros.append([p,o])
