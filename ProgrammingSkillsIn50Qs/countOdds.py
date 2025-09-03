@@ -53,5 +53,10 @@ def countOdds3(low, high): #Fourth Try (19 ms, Still not satisfied)
     else:
         return count
     
-def countOdds3(low, high): #5th Try (15 ms, Still not satisfied)
+def countOdds3(low, high): #5th Try (15 ms, average with everyone else)
     return (high + 1) / 2 - low / 2
+
+'''
+What did I learn?
+1) By just adding 1 on one side it's possible to change everything.
+'''
