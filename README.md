@@ -14,7 +14,7 @@ Each file corresponds to a specific problem and is named in a way that matches t
 ## 🚀 How to Use
 ```bash```
 # Clone the repository
-git clone https://github.com/<your-username>/LeetCodeProblems.git
+git clone https://github.com/georgebnov/LeetCodeProblems.git
 
 # Navigate into the folder
 cd LeetCodeProblems
