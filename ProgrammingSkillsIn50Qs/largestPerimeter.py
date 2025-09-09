@@ -19,7 +19,7 @@ def largestPerimeter(nums): #My variant took too long, to do nums
     return biggest_perimeter
 
 
-def largestPerimeter(nums):
+def largestPerimeter(nums): #Found on the internet how to make this better, and how to solve the array that is very long...
     A = sorted(nums)[::-1]
     print(A)
     for i in range(len(A) - 2):
